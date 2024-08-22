@@ -7,6 +7,11 @@
 | **GitHub** | [@](https://github.com/ashaman999)​[JackyZzZz](https://github.com/JackyZzZz)                        |
 | **Email** | jackyxia.uci@gmail.com |
 
+# Special thanks to my mentor and community:
+
+* Fanwang Meng [@Github](https://github.com/FanwangM)
+* Paul W. Ayers [@Github](https://github.com/PaulWAyers)
+
 # Intro
 
 Dear contributors of QC-Devs, 
