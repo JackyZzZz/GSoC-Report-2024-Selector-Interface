@@ -9,8 +9,8 @@
 
 # Special thanks to my mentor and community:
 
-* Fanwang Meng [@Github](https://github.com/FanwangM)
-* Paul W. Ayers [@Github](https://github.com/PaulWAyers)
+* [Fanwang Meng](https://github.com/FanwangM)
+* [Paul W. Ayers](https://github.com/PaulWAyers)
 
 # Intro
 
