@@ -1,5 +1,12 @@
 # [Selector: Interactive Web Interface for Chemical Subset Selection](https://summerofcode.withgoogle.com/programs/2024/projects/JpL7n5Ji)
 
+| **Student** | Jun Xia            |
+| :- | :------------------------ |
+| **Organization** | [QC-Devs](https://qcdevs.org/)<br />                      |
+| **Project** | [Interactive web interface for Selector](https://github.com/theochem/Selector/issues/191) <br />                     |
+| **GitHub** | [@](https://github.com/ashaman999)​[JackyZzZz](https://github.com/JackyZzZz)                        |
+| **Email** | jackyxia.uci@gmail.com |
+
 # Intro
 
 Dear contributors of QC-Devs, 
