@@ -52,22 +52,24 @@ Note that more details about the roadmap may be added to this list as I start to
 
 # Meeting Notes
 - Week 0-1
-  - https://github.com/theochem/Selector/discussions/205
-  - https://github.com/theochem/Selector/discussions/209
+  - [Meeting Notes for GSoC (5/9/2024)](https://github.com/theochem/Selector/discussions/205)
+  - [Meeting Notes for GSoC (5/27/2024)](https://github.com/theochem/Selector/discussions/209)
 - Week 3
-  - https://github.com/theochem/Selector/discussions/211
+  - [Meeting Notes for GSoC (6/10/2024)](https://github.com/theochem/Selector/discussions/211)
 - Week 4
-  - https://github.com/theochem/Selector/discussions/215
+  - [Meeting Notes for GSoC (6/18/2024)](https://github.com/theochem/Selector/discussions/215)
 - Week 6
-  - https://github.com/theochem/Selector/discussions/226
+  - [Meeting Notes for GSoC (7/2/2024)](https://github.com/theochem/Selector/discussions/226)
 - Week 7
-  - https://github.com/theochem/Selector/discussions/232
+  - [Meeting Notes for GSoC (7/12/2024)](https://github.com/theochem/Selector/discussions/232)
 - Week 10
-  - https://github.com/theochem/Selector/discussions/233
+  - [Meeting Notes for GSoC (8/1/2024)](https://github.com/theochem/Selector/discussions/233)
 - Week 11
-  - https://github.com/theochem/Selector/discussions/241
+  - [Meeting Notes for GSoC (8/8/2024)](https://github.com/theochem/Selector/discussions/241)
 - Week 12
-  - https://github.com/theochem/Selector/discussions/247
+  - [Meeting Notes for GSoC (8/15/2024)](https://github.com/theochem/Selector/discussions/247)
+- Week 13
+  - [Meeting Notes for GSoC (8/22/2024)](https://github.com/theochem/Selector/discussions/253)
 
 # Blog
 
