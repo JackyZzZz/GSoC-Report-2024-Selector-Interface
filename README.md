@@ -12,6 +12,9 @@
 * [Fanwang Meng](https://github.com/FanwangM)
 * [Paul W. Ayers](https://github.com/PaulWAyers)
 
+# Excited to Explore the Selector Web Interface?
+If you're interested in checking out the interface and play around with some chemical data, feel free to explore the [webapp branch](https://github.com/theochem/Selector/tree/webapp).
+
 # Intro
 
 Dear contributors of QC-Devs, 
